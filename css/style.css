@@ -1104,7 +1104,7 @@ figure.effect-julia:hover p {
     display: block;
 }
 .footer_grid_left:nth-child(3),.footer_grid_left:nth-child(4){
-    margin-top: 51px;
+    //margin-top: 51px;
 }
 .icon_grid_left span {
     color: #fff;
