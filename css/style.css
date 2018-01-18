@@ -1624,7 +1624,8 @@ footer p {
 		margin: 0.5em 0 0;
 	}
 	.navbar-default .navbar-toggle {
-     background: rgb(255, 104, 156);
+	background: border-box;
+    // background: rgb(255, 104, 156);
     border-radius: 5px;
 	}
 .navbar-default .navbar-toggle .icon-bar {
