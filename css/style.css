@@ -644,7 +644,7 @@ span.banner-icon {
     border: 2px solid rgb(0, 0, 0);
 
 }
-.white-shadow:hover{background:rgba(255, 43, 116, 0.98);}
+.white-shadow:hover{background:black;}
 /*--//services--*/
 /*--bloag--*/
 .blog-br{
@@ -1032,7 +1032,7 @@ figure.effect-julia:hover p {
 .styled-input:nth-child(1) {
     margin-top: 0px;
 }
-.contact-two-grids{ background: rgba(236, 230, 233, 0.28);
+.contact-two-grids{ //background: rgba(236, 230, 233, 0.28);
     padding: 14px 0px ;
 	}
 	.contact-icons {
