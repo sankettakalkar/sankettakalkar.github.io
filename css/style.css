@@ -644,7 +644,7 @@ span.banner-icon {
     border: 2px solid rgb(0, 0, 0);
 
 }
-.white-shadow:hover{background:black;}
+.white-shadow:hover{background:rgba(255, 43, 116, 0.98);}
 
 .white-shadow-copy{
     background: rgba(0, 0, 0, 0.7);
@@ -659,7 +659,7 @@ span.banner-icon {
     box-shadow: 2px 15px 70px 2px rgba(0,0,0,0.75);
 
 }
-white-shadow-copy:hover{background:black;}
+//white-shadow-copy:hover{background:black;}
 
 /*--//services--*/
 /*--bloag--*/
